@@ -1,0 +1,7 @@
+.browser-profile/
+profile.yaml
+applications.csv
+resume.pdf
+cover_letter.pdf
+__pycache__/
+.venv/

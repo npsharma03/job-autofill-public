@@ -1,0 +1,13 @@
+Hi {company} team,
+
+I'm excited to apply for the {role} position. I'm currently [your education or professional background], with experience in [relevant skills or areas of expertise].
+
+At [organization or project], I [describe a relevant contribution and measurable result]. More recently, I [describe another relevant project or achievement].
+
+I'm interested in {company} because [specific reason tied to its work or this role].
+
+Thank you for your time and consideration. I'd welcome the opportunity to discuss how my experience fits your team's needs.
+
+Best,
+{first_name} {last_name}
+{email} | {linkedin}

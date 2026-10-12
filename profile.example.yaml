@@ -1,0 +1,49 @@
+# Copy this to profile.yaml and fill it in.
+
+personal:
+  first_name: Jane
+  last_name: Doe
+  preferred_name: ""          # leave blank to use first name
+  email: jane@example.com
+  phone: "+1 555 123 4567"
+  address: "123 Main St"
+  city: Austin
+  state: Texas
+  zip: "78701"
+  country: United States
+  location: "Austin, TX"      # used for "Location" autocomplete fields
+
+links:
+  linkedin: https://linkedin.com/in/janedoe
+  github: https://github.com/janedoe
+  website: https://janedoe.dev
+
+work:
+  current_company: Acme Inc
+  current_title: Software Engineer
+  years_experience: 4
+  expected_salary: 120000
+  start_date: "2 weeks notice"
+  pronouns: she/her
+  how_heard: LinkedIn
+
+# Answers for yes/no and dropdown-style questions.
+# Anything you delete here gets left blank for you to answer by hand.
+answers:
+  work_authorized: "Yes"
+  needs_sponsorship: "No"
+  willing_to_relocate: "No"
+  onsite_ok: "Yes"
+  over_18: "Yes"
+  previously_employed: "No"
+  background_check: "Yes"
+  gender: "Decline to self-identify"
+  ethnicity: "Decline to self-identify"
+  hispanic: "Decline to self-identify"
+  veteran: "Decline to self-identify"
+  disability: "Decline to self-identify"
+  lgbtq: "Decline to self-identify"
+
+files:
+  resume: ./resume.pdf        # put your resume next to autofill.py
+  cover_letter_pdf: ""        # optional, for sites that want a cover letter file
