@@ -148,7 +148,7 @@ Blank lines and lines beginning with `#` are ignored. Company and role are optio
 Run the list:
 
 ```powershell
-python autofill.py
+python autofill.py --url ""
 ```
 
 Or use another job list:
